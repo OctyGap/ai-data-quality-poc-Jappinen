@@ -1,0 +1,6 @@
+pandas
+pandasql
+openai
+python-dotenv
+flask
+openpyxl

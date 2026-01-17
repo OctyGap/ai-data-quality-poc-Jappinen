@@ -1,0 +1,15 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# logs
+.logs/
+*.log
+
+# generated outputs
+exports/
+
+#data
+data/
